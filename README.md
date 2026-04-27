@@ -2,6 +2,8 @@
 
 A simple and responsive Weather Application built using **HTML, CSS, and JavaScript** that fetches real-time weather data using the **OpenWeatherMap API**. Users can search for any city and get live weather details instantly.
 
+<img src="./images/app1.png" width="500"/>
+
 <img src="./images/app.png" width="500"/>
 
 ---
